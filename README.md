@@ -1,0 +1,1 @@
+This is the first real project I'm taking as a web dev student under The Odin Project. I'm supposed to make a Google homepage simulacrum, as it won't include the search engine's functionality.
